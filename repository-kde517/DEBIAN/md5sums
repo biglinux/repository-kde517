@@ -1,0 +1,4 @@
+d41d8cd98f00b204e9800998ecf8427e  DEBIAN/md5sums
+11b0bf751884fbe6a87a51afadc583ac  DEBIAN/postinst
+abc636e2c36f2d8a8ea126ccc1769743  DEBIAN/control
+bd42de8887b9e3003c960f36deea075c  etc/apt/sources.list.d/kde517.list

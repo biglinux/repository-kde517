@@ -1,0 +1,9 @@
+Package: repository-kde517
+Version: 2019.06-6big
+Architecture: all
+Maintainer: Bruno Goncalves <www.biglinux.com.br>
+Installed-Size:16
+Section: admin
+Priority: optional
+Description: KDE 5.17
+
