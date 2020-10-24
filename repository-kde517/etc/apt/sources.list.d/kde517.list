@@ -1,3 +1,0 @@
-deb [by-hash=false arch=amd64] http://biglinux.c3sl.ufpr.br/packages/kde517 eoan main
-#deb-src [by-hash=false arch=amd64] http://biglinux.c3sl.ufpr.br/packages/kde517 eoan main
-

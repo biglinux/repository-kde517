@@ -1,0 +1,2 @@
+deb [arch=amd64] http://repository.biglinux.com.br/mirror/biglinux/packages kde-updates-focal main
+#deb-src deb http://repository.biglinux.com.br/mirror/biglinux/packages kde-updates-focal main

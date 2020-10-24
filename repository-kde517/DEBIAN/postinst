@@ -1,3 +1,0 @@
-#!/bin/sh
-
-apt-key adv --keyserver keyserver.ubuntu.com --recv-keys E4DFEC907DEDA4B8A670E8042836CB0A8AC93F7A

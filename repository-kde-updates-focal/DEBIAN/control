@@ -1,0 +1,9 @@
+Package: repository-kde-updates-focal
+Version: 2020.08-3big
+Architecture: all
+Maintainer: Bruno Goncalves <www.biglinux.com.br>
+Installed-Size:12
+Section: admin
+Priority: optional
+Description: Updates to KDE in BigLinux 20.04
+
